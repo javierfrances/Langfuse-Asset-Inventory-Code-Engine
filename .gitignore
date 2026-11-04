@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+secrets.env
+secrets.*.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*inventario*.json
+*.log
+*.zip

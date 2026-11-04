@@ -1,0 +1,2 @@
+# IBM Cloud Object Storage client; mandatory for this COS-only deployment.
+ibm-cos-sdk>=2.14,<3
